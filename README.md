@@ -8,7 +8,7 @@ Tired of the default RadPrimer interface limitations? RadPrimer Enhancer provide
 
 *The main enhanced fullscreen interface:*
 
-![One large picture.](1.png) 
+![One large picture.](1.jpg) 
 
 ![Four large pictures. Double click on a picture to toggle single view/grid view](2.png) ![Two images side by side.](3.png)
 
