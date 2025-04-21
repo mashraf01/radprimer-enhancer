@@ -6,7 +6,13 @@ Tired of the default RadPrimer interface limitations? RadPrimer Enhancer provide
 
 ## Screenshots
 
-*(Insert a compelling screenshot or GIF demonstrating the enhanced fullscreen view here. Show the clean layout and maybe some customization options.)*
+*The main enhanced fullscreen interface:*
+
+![One large picture.](1.png) 
+
+![Four large pictures. Double click on a picture to toggle single view/grid view](2.png) ![Two images side by side.](3.png)
+
+![Supports vertical mode for vertical monitors](4.png) ![Teaching points](5.png)
 
 
 
